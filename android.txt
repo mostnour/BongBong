@@ -1,0 +1,3 @@
+title=GoLDen Soft Pong Pong
+author=Mostafa Gaber
+orientation=landscape
